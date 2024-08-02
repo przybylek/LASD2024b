@@ -16,14 +16,6 @@ const Header = () => (
           <h3 className='text-center h4 pb-3'><small>at the 32nd International Conference on Information Systems Development</small></h3>
           <h4 className='text-center h5'>August 26 – 28, 2024</h4>
           <h4 className='text-center h5 pb-3'>Sopot, Poland</h4>
-
-
- /*
-            <h4 className='text-center h5'>
-		<span className='badge bg-warning p-2 m-1'><a className='u' href='https://pers.lasd.pl'>PeRS@ADBIS'23</a> (Barcelona)</span>
-		<span className='badge bg-warning p-2 m-3'><a className='u' href='https://kkio.lasd.pl'>KKIO@FedCSIS'23</a> (Warsaw)</span>
-	    </h4>
-  */
         </div>
       </div>
     </Container>

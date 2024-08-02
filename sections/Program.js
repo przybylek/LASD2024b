@@ -39,11 +39,11 @@ const Program = () => (
 
         <tr><th className='text-center table-secondary' colSpan={2}></th></tr>
         <tr className='text-center table-primary'><th>Mon., August 26th</th><th>Poster Exhibit (Hallway - 0 floor)</th></tr>
-        <tr><td className='text-nowrap' rowSpan={2}>11:00 - 11:40 15:00-15:40</td><td>Social Sustainability and Large-Scale Agile Software Development (<em>Muhammad Ovais Ahmad and Tomas Gustavsson</em>)</td></tr>
+        <tr><td className='text-nowrap' rowSpan={2}>11:00 - 11:40<br />15:00-15:40</td><td>Social Sustainability and Large-Scale Agile Software Development (<em>Muhammad Ovais Ahmad and Tomas Gustavsson</em>)</td></tr>
         <tr><td>Leveraging Generative AI Tools for UX Design in Lean and Agile Projects (<em>Marcin Sikorski</em>)</td></tr>
 
         <tr><th className='text-center table-secondary' colSpan={2}></th></tr>
-        <tr className='text-center table-primary'><th>Tus., August 27th</th><th>Session II (Room C-21); chaired by <em></em></th></tr>
+        <tr className='text-center table-primary'><th>Tus., August 27th</th><th>Session II (Room C-21); chaired by <em>Emilio Insfran</em></th></tr>
         <tr><td className='text-nowrap'>11:40 - 12:00</td><td>Development of a Measurement Instrument for Process Debt Detection in Agile Software Development Organizations (<em>Tomas Gustavsson, Muhammad Ovais Ahmad and Hina Saeeda</em>)</td></tr>
         <tr><td className='text-nowrap'>12:00 - 12:20</td><td>Assessment of the relevance of best practices in the development of medical R&D projects based on machine learning (<em>	
 Jan Cychnerski and Tomasz Dziubich</em>)</td></tr>

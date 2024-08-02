@@ -39,7 +39,7 @@ const Program = () => (
 
         <tr><th className='text-center table-secondary' colSpan={2}></th></tr>
         <tr className='text-center table-primary'><th>Mon., August 26th</th><th>Poster Exhibit (Hallway - 0 floor)</th></tr>
-        <tr><td className='text-nowrap' rowSpan={2}>11:00 - 11:40<br />15:00-15:40</td><td>Social Sustainability and Large-Scale Agile Software Development (<em>Muhammad Ovais Ahmad and Tomas Gustavsson</em>)</td></tr>
+        <tr><td className='text-nowrap' rowSpan={2}>11:00 - 11:40<br />15:00 - 15:40</td><td>Social Sustainability and Large-Scale Agile Software Development (<em>Muhammad Ovais Ahmad and Tomas Gustavsson</em>)</td></tr>
         <tr><td>Leveraging Generative AI Tools for UX Design in Lean and Agile Projects (<em>Marcin Sikorski</em>)</td></tr>
 
         <tr><th className='text-center table-secondary' colSpan={2}></th></tr>

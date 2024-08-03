@@ -31,7 +31,7 @@ const Program = () => (
     <Table bordered className="mt-5">
       <tbody>	
 
-        <tr className='text-center table-primary'><th>Mon., August 26th</th><th>Session I (Room C-21); chaired by <em>Adam Przybyłek</em></th></tr>
+        <tr className='text-center table-primary'><th>Mon., August 26th</th><th>Session I (Room C-21); chaired by <em>Tomas Gustavsson</em></th></tr>
         <tr><td className='text-nowrap'>13:40 - 14:00</td><td>Unlocking Feedback in Remote Retrospectives: Games, Anonymity, and Continuous Reflection in Action (<em>Yen Ying Ng, Bartosz Leśniewski, Krzysztof Marek, Michael Neumann and Jacek Trzesicki</em>)</td></tr>
         <tr><td className='text-nowrap'>14:00 - 14:20</td><td>On the Business Analyst's Responsibilities in an Agile Software Project - a Multi-Method Study (<em>Mateusz Kwiatkowski and Aleksander Jarzebowicz</em>)</td></tr>
         <tr><td className='text-nowrap'>14:20 - 14:40</td><td>Waste and Its Elimination in Software Development Projects in Europe (<em>Piotr Sycz and Elzbieta Wojnicka-Sycz</em>)</td></tr>
